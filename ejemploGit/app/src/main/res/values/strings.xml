@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ejemploGit</string>
+    <string name="btnreservar">reservar</string>
+    <string name="txtcanchaCubo">
+        Canchas el cubo:
+        precio:$100.000
+        direccion:calle 25#820
+        horario:7am-9pm
+        valoracion:
+    </string>
 </resources>
